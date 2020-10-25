@@ -1,0 +1,13 @@
+body{
+    background-color:red;
+    color:black;
+}
+header{
+   border-width:10px;
+   border-radius:10px;
+   border-color:gold;
+   border-style:outset;
+}
+
+
+
